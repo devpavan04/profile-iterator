@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+.profile {
+  padding: 1rem;
+}
+
+#loader {
+  display: none;
+  margin: auto;
+}
+
+ul {
+  text-align: center;
+  margin-top: 3rem;
+  list-style: none;
+}
